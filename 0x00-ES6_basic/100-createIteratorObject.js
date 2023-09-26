@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 export default function createIteratorObject(report) {
  let employees = []
  let result = []
